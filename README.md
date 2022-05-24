@@ -6,7 +6,7 @@ pip install requests
 pip install mechanize
 pkg install git -y
 ```
-<b>Run Script<\b>
+<b>Run Script
 ```python
 git clone https://github.com/Xenz-11/Empas-Moonton
 cd Empas-Moonton
